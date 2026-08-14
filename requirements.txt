@@ -1,2 +1,5 @@
 streamlit
 python-dotenv
+pypdf
+google-generativeai
+
